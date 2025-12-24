@@ -5,6 +5,8 @@
 .env.*
 *.env
 
+application-*.yml
+
 # Git 관련
 .git
 .gitignore
